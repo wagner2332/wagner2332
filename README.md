@@ -2,7 +2,7 @@
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/wagner-wilson-//)
 [![outlook](https://img.shields.io/badge/outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:wagner_silva2332@hotmail.com)
-### Software Developer | QA
+### Automation | QA
 
 <div>
   <a href="https://github.com/wagner2332"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wagner2332&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
